@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/navigationMovie"
+        android:title="Movie"
+        android:icon="@drawable/ic_movie_black_24dp"
+        app:showAsAction="always|withText"
+        android:state_checked="true" />
+    <item
+        android:id="@+id/navigationTvShow"
+        android:title="Tv Show"
+        android:icon="@drawable/ic_tv_black_24dp"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/navigationFavo"
+        android:title="Tv Show"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        app:showAsAction="always|withText" />
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingSubmission</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="language">en-US</string>
+
+    <string name="reminder">Reminder</string>
+
+    <string name="titleDaily">Daily Reminder</string>
+    <string name="contentDaily">Open App</string>
+    <string name="subtext">Sub text</string>
+
+    <string name="empty_text">No Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_reminder">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">Reminder</string>
+
+
+    <!-- Sync Preferences -->
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="releaseToday">Release Today</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="summary_daily_reminder">Reminder for return to app</string>
+    <string name="summary_release_today">Reminder showing the movie that released today</string>
+
+</resources>
